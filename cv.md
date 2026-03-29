@@ -34,9 +34,11 @@ Motivated Junior Frontend Developer with a strong interest in building clean, re
 
 ## Code Example
 
-    function multiply(a, b) {
-      return a * b;
-    }
+```javascript
+function multiply(a, b) {
+  return a * b;
+}
+```
 
 ---
 
